@@ -24,11 +24,13 @@ tomar as ondas que chegam no caminho) e consome fôlego, que só se recupera dur
 - **Classificação:** programa linear inteiro misto (MILP), NP-difícil, resolvido pelo Gurobi com
   *branch and bound*.
 
-## Arquivo
+## Arquivos
 
 | Arquivo | Conteúdo |
 |---|---|
 | `surf_projeto.ipynb` | Relatório e código: modelo, implementação, exemplo de 6 ondas, sessões sintéticas de 40 ondas, comparação com regras simples e análise de sensibilidade. O notebook já está executado, com todas as saídas. |
+| `apresentacao_ondas.pdf` | Slides da apresentação. |
+| `apresentacao_ondas.tex` | Código-fonte dos slides em LaTeX (Beamer, tema Metropolis). Compilar com XeLaTeX. |
 
 ## Como executar
 
